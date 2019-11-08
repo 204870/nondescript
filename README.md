@@ -6,7 +6,15 @@ Davis, Robin Camille (2016). [*Nondescript: A Web Tool to Aid Subversion of Auth
 
 Completed for the [Computational Linguistics MA program](http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Linguistics/About-the-Program/Specializations/Computational-Linguistics).
 
-[Thesis presentation](https://docs.google.com/presentation/d/14iBLsyTz6NZVXXTyR_BcFro8td0VoAhms1-hVeecuEM/edit?usp=sharing) (slides & notes): presented June 1, 2016
+[Thesis presentation](https://docs.google.com/presentation/d/14iBLsyTz6NZVXXTyR_BcFro8td0VoAhms1-hVeecuEM/edit?usp=sharing) (slides & notes): presented June 1, 2016.
+
+### Continuing work
+
+Davis, Robin Camille (2019). [Obfuscating Authorship: Results of a User Study on Nondescript, a Digital Privacy Tool](https://academicworks.cuny.edu/jj_pubs/253). White paper.
+
+Presentation: [How computers understand writing style — and what that means for privacy](https://docs.google.com/presentation/d/10Z4utsmi-YOPlGjS6IyQmjjrzkZyF1dUW4hLhXFenk8/edit?usp=sharing) (slides & notes): presented November 2019.
+
+[Nondescript 2](https://github.com/robincamille/nondescript2), under development.
 
 ## About 
 
@@ -18,9 +26,7 @@ Completed for the [Computational Linguistics MA program](http://www.gc.cuny.edu/
 
 You may get a different result every time you use Nondescript, even if you don't change your message. That's because this is a simulation of de-anonymization. In a real scenario, you may not know whose writing your anonymous message is being compared to. Moreover, you can run Nondescript multiple times as a way of cross-validating the results of the final revision of your message.
 
-**Future work** on this project will include a user study and a dedicated interactive public website that runs Nondescript. 
-
-Questions? robincamilledavis@gmail.com (Please no code nitpicking.) 
+**Future work** on this project will include a dedicated interactive public website that runs Nondescript. 
 
  
 ## Download & use
