@@ -14,7 +14,8 @@
 import toponly, datetime, time
 from  more_itertools import chunked
 from sklearn.naive_bayes import GaussianNB
-from sklearn.externals import joblib
+#sklearn 0.23+ has removed the sklearn.externals.joblib.
+import joblib
 from random import randint
 from classif import tfidf
 
